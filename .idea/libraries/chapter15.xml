@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="chapter15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/chapter15/stick-figure.zip!/" />
+      <root url="jar://$PROJECT_DIR$/chapter15/platform.zip!/" />
+      <root url="jar://$PROJECT_DIR$/chapter15/door.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
